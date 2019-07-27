@@ -16,6 +16,6 @@
         }
     },
     "require": {
-        "laracasts/behat-laravel-extension": "dev-master"
+        "laracasts/behat-laravel-extension": "^1.1"
     }
 }
