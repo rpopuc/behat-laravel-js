@@ -1,5 +1,5 @@
 {
-    "name": "sepehr/behat-laravel-js",
+    "name": "rpopuc/behat-laravel-js",
     "description": "Testing javascript apps with Laravel and Behat.",
     "keywords": ["laravel", "behat", "javascript", "bdd", "selenium"],
     "type": "library",
